@@ -3,6 +3,7 @@ import numpy as np
 import time
 import pyautogui
 
+
 # Constants
 MOTION_UP = "Up"
 MOTION_DOWN = "Down"
